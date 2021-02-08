@@ -1,3 +1,3 @@
 # guisa-git1
 
-## Descrição recomendada de espeficicação
+## Descrição recomendada de especificação
