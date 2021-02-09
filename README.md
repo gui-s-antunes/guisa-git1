@@ -34,11 +34,11 @@ Descrever como instalar qualquer dependência de desenvolvimento, para que possa
 * 0.1.2
     * ADD: função de cálculo de tempo `calc_time()`
 
-# Meta
+## Meta
 
 Seu nome - [@SeuTwittttter](email@email.com) - email@email.com
 
-Ditribuidor sobre a licença. veja `LICENÇA` para mais informações.
+Distribuidor sobre a licença. veja `LICENÇA` para mais informações.
 
 [https://github.com/gui-s-antunes](https://github.com/gui-s-antunes)
 
